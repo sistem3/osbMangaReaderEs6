@@ -1,0 +1,27 @@
+osb-manga-reader {
+  h1, h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+
+  .fa {
+    line-height: 1.42857;
+  }
+
+  .main-nav {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .credits {
+    margin-bottom: 10px;
+
+    small {
+      font-style: italic;
+    }
+  }
+}

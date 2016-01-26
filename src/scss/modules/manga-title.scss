@@ -1,0 +1,23 @@
+osb-manga-reader {
+  .mangaTitle {
+    margin-bottom: 30px;
+
+    h2 {
+      margin-top: 0;
+    }
+
+    nav {
+      margin-bottom: 10px;
+    }
+
+    .mainImage {
+      padding-left: 0;
+      padding-right: 0;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
