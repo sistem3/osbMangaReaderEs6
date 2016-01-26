@@ -9,7 +9,7 @@ module.exports = function(grunt) {
             },
             dist: {
                 files: {
-                    'src/css/osb-news-feed-reader.css': 'src/scss/osb-news-feed-reader.scss'
+                    'src/css/osbMangaReader.css': 'src/scss/osbMangaReader.scss'
                 }
             }
         },

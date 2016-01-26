@@ -1,6 +1,6 @@
 {
-  "name": "osb-news-feed",
-  "version": "0.0.2",
+  "name": "osb-manga-reader",
+  "version": "0.0.1",
   "dependencies": {
     "fetch-jsonp": "^1.0.0",
     "grunt-cli": "^0.1.13",
