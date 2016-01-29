@@ -9,9 +9,12 @@
             @import '/src/css/osbMangaReader.css';
         </style>
         <main class="osb-manga-reader-holder container">
-            <header>
-
-            </header>
+            <nav class="main-nav">
+                <ul class="list-unstyled list-inline">
+                    <li><button class="btn btn-primary">Site Favourites</button></li>
+                    <li><button class="btn btn-primary">All Titles</button></li>
+                </ul>
+            </nav>
             <section class="siteFavourites mangaList">
                 <ul class="list-unstyled"></ul>
             </section>
@@ -39,7 +42,6 @@
         };
 
         renderFeedTemplate(data) {
-            console.log(data);
             this.$siteFavourites.querySelector('.list-unstyled').innerHTML +=
                 '<li class="row mangaTitle">' +
                     '<article class="container-fluid">' +
