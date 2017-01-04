@@ -1,9 +1,9 @@
-osbNewsFeedReader
+osbMangaReader
 ============
 
 **Version:** 0.0.1
 
-**Description:** This is an ES6>ES5 Web Component for RSS news feeds
+**Description:** This is an ES6>ES5 Web Component for reading Manga Content
 
 Please note that this project is still in Alpha testing so is not ready for
 production use.
